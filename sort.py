@@ -7,7 +7,7 @@ print(listed)
 #Simple Sort in a -line
 listed = [1,2,3,4,5,7,8,534,5,6,755,632,234,0]
 listed.sort(reverse=True)
-print(listed)
+print(listed)#
 
 
 #Simple Sort of alphabet positive.
